@@ -1,0 +1,359 @@
+order,species,body,brain,temp,source,altname
+artiodactyl,Babyrousa babyrussa,100000,132.7,31,Bouchot,
+artiodactyl,Hylochoerus meinertshageni,270000,151,33,Bouchot,
+artiodactyl,Phacochoerus aethiopicus,140000,157.8,36,Bouchot,
+artiodactyl,Potamochoerus porcus,130000,155.6,33,Bouchot,
+artiodactyl,Sus scrofa,281000,202.3,31,Bouchot,
+artiodactyl,Hyemoschus aquaticus,15000,32.1,32,Bouchot,
+artiodactyl,Tragulus javanicus,2600,15,32,Bouchot,
+artiodactyl,Tragulus meminna,5000,21,39,Bouchot,
+artiodactyl,Tragulus napu,6000,21.1,33,Bouchot,
+artiodactyl,Antilocapra americana,70000,161.6,32,Bouchot,
+artiodactyl,Choeropsis liberiensis,200000,251.2,34,Bouchot,
+artiodactyl,Hippopotamus amphibius,3000000,738,34,Bouchot,
+artiodactyl,Tayassu pecari,40000,123.4,35,Bouchot,
+artiodactyl,Tayassu tajacu,30000,105.2,34,Bouchot,
+artiodactyl,Capra hircus,113000,181.5,,Bouchot,
+artiodactyl,Ovis ammon,100000,144.2,19,Bouchot,
+artiodactyl,Ovis musimon,60000,140.3,18,Bouchot,
+artiodactyl,Rupicapra rupicapra,50000,131.5,16,Bouchot,
+artiodactyl,Saiga tatarica,70000,119,29,Bouchot,
+artiodactyl,Oreotragus oreotragus,18000,67.6,28,Bouchot,
+artiodactyl,Antidorcas marsupialis,43000,141.6,30,Bouchot,
+artiodactyl,Antilope cervicapra,38000,121.8,40,Bouchot,
+artiodactyl,Gazella dama,72000,159.2,41,Bouchot,
+artiodactyl,Gazella dorcas dorcas,23000,76.7,41,Bouchot,
+artiodactyl,Gazella dorcas isabellia,23000,92.9,,Bouchot,
+artiodactyl,Gazella granti,60000,169.8,35,Bouchot,
+artiodactyl,Gazella rufifrons,30000,100.6,41,Bouchot,
+artiodactyl,Gazella thompsoni,29000,96.3,27,Bouchot,
+artiodactyl,Litocranius walleri,55000,139.5,33,Bouchot,
+artiodactyl,Neotragus moschatus,6000,37.1,31,Bouchot,
+artiodactyl,Raphicerus campestris,14000,57.3,30,Bouchot,
+artiodactyl,Raphicerus melanotis,12000,57.4,25,Bouchot,
+artiodactyl,Madoqua kirki,5000,35.4,31,Bouchot,
+artiodactyl,Madoqua saltiana,5000,28.4,36,Bouchot,
+artiodactyl,Kobus ellipsiprymnus,270000,323,37,Bouchot,
+artiodactyl,Kobus ellipsiprymnus defassa,270000,326.5,41,Bouchot,
+artiodactyl,Kobus ellipsiprymnus penricei,270000,332.7,,Bouchot,
+artiodactyl,Kobus kob,117500,206.5,41,Bouchot,
+artiodactyl,Kobus leche,123000,223.5,40,Bouchot,
+artiodactyl,Ourebia ourebi,21000,64.3,36,Bouchot,
+artiodactyl,Pelea capreolus,24000,114,30,Bouchot,
+artiodactyl,Redunca arundinum,90000,160.3,31,Bouchot,
+artiodactyl,Redunca fulvorufula,35000,127,26,Bouchot,
+artiodactyl,Redunca redunca,50000,126.5,36,Bouchot,
+artiodactyl,Addax nasomaculatus,125000,206.4,41,Bouchot,
+artiodactyl,Hippotragus quinus,270000,377.6,37,Bouchot,
+artiodactyl,Hippotragus niger,280000,338,31,Bouchot,
+artiodactyl,Oryx dammah,200000,274,39,Bouchot,
+artiodactyl,Oryx gazella beisa,240000,338.8,33,Bouchot,
+artiodactyl,Oryx gazella callotis,240000,319.5,28,Bouchot,
+artiodactyl,Oryx gazella gazella,240000,339.6,31,Bouchot,
+artiodactyl,Aepyceros melampus,82000,198.3,34,Bouchot,
+artiodactyl,Boselaphus tragocamelus,200000,306,41,Bouchot,
+artiodactyl,Sigmoceros lichtensteinii,200000,359.7,,Bouchot,
+artiodactyl,Tragelaphus angasii,137000,234.4,33,Bouchot,
+artiodactyl,Tragelaphus buxtoni,280000,335,23,Bouchot,
+artiodactyl,Tragelaphus derbianus,900000,542,38,Bouchot,
+artiodactyl,Tragelaphus euryceros,292000,402.7,36,Bouchot,
+artiodactyl,Tragelaphus imberbis,145000,224.9,37,Bouchot,
+artiodactyl,Tragelaphus oryx,750000,549.5,36,Bouchot,
+artiodactyl,Tragelaphus scriptus,80000,195,36,Bouchot,
+artiodactyl,Tragelaphus spekei,125000,220.3,34,Bouchot,
+artiodactyl,Tragelaphus strepsiceros,320000,387.4,35,Bouchot,
+artiodactyl,Alcelaphus buselaphus caama,180000,307,32,Bouchot,
+artiodactyl,Alcelaphus buselaphus cokei,180000,304,34,Bouchot,
+artiodactyl,Alcelaphus buselaphus jacksoni,180000,324.3,,Bouchot,
+artiodactyl,Alcelaphus buselaphus modestus,180000,314,,Bouchot,
+artiodactyl,Connochaetes gnou,225000,360.6,31,Bouchot,
+artiodactyl,Connochaetes taurinus,275000,431.5,30,Bouchot,
+artiodactyl,Damaliscus dorcas,130000,274.8,28,Bouchot,
+artiodactyl,Damaliscus lunatus jimela,142000,273,35,Bouchot,
+artiodactyl,Damaliscus lunatus korrigum,150000,263,40,Bouchot,
+artiodactyl,Damaliscus lunatus lunatus,160000,284.8,32,Bouchot,
+artiodactyl,Bison bison,1500000,760,35,Bouchot,
+artiodactyl,Syncerus caffer,820000,651.6,38,Bouchot,
+artiodactyl,Syncerus caffer nanus,600000,467.7,39,Bouchot,
+carnivora,Canis lupus,33110,131.63,38,Gittleman,
+carnivora,Canis latrans,10490,88.23,33,Gittleman,
+carnivora,Canis aureus,8760,72.24,36,Gittleman,
+carnivora,Canis adustus,11250,51.94,29,Gittleman,
+carnivora,Canis mesomelas,7690,56.83,33,Gittleman,
+carnivora,Lycaon pictus,21980,129.02,36,Gittleman,
+carnivora,Cuon alpinus,17640,94.63,33,Gittleman,
+carnivora,Alopex lagopus,3190,35.52,22,Gittleman,
+carnivora,Vulpes bengalensis,2270,25.79,36,Gittleman,
+carnivora,Vulpes rueppellii,3600,24.29,41,Gittleman,
+carnivora,Vulpes pallida,3600,25.03,41,Gittleman,
+carnivora,Vulpes chama,3100,33.45,30,Gittleman,
+carnivora,Vulpes velox,2200,32.14,35,Gittleman,
+carnivora,Vulpes vulpes,4140,43.38,38,Gittleman,
+carnivora,Fennecus zerda,1510,17.29,41,Gittleman,
+carnivora,Nyctereutes procyonoides,7460,28.5,30,Gittleman,
+carnivora,Otocyon megalotis,3940,26.84,40,Gittleman,
+carnivora,Urocyon cinereoargenteus,3630,40.85,32,Gittleman,
+carnivora,Urocyon littoralis,2050,27.66,25,Gittleman,
+carnivora,Atelocynus microtis,9030,62.18,33,Gittleman,
+carnivora,Chrysocyon brachyurus,23100,120.3,34,Gittleman,
+carnivora,Speothos venaticus,5990,40.45,32,Gittleman,
+carnivora,Ursus arctos,298870,336.97,25,Gittleman,
+carnivora,Ursus americanus,109950,359.82,36,Gittleman,
+carnivora,Ursus maritimus,365040,459.44,20,Gittleman,
+carnivora,Ursus thibetanus,100480,314.19,35,Gittleman,
+carnivora,Helarctos malayanus,79840,354.25,32,Gittleman,
+carnivora,Melursus ursinus,101490,304.9,33,Gittleman,
+carnivora,Bassariscus astutus,840,16.44,34,Gittleman,
+carnivora,Jentinkia sumichrasti,900,19.3,28,Gittleman,
+carnivora,Potos flavus,2050,25.53,32,Gittleman,
+carnivora,Nasua nasua,5000,29.96,33,Gittleman,
+carnivora,Procyon lotor,6170,40.04,32,Gittleman,
+carnivora,Ailurus fulgens,3740,40.85,16,Gittleman,
+carnivora,Ailuropoda melanoleuca,117920,235.1,26,Gittleman,
+carnivora,Mustela erminea,90,4.01,26,Gittleman,
+carnivora,Mustela nivalis,100,1.99,33,Gittleman,
+carnivora,Mustela frenata,230,4.01,23,Gittleman,
+carnivora,Mustela altaica,190,4.48,11,Gittleman,
+carnivora,Mustela sibirica,570,6.75,32,Gittleman,
+carnivora,Mustela lutreola,590,8.5,25,Gittleman,
+carnivora,Mustela vison,910,8.5,32,Gittleman,
+carnivora,Mustela putorius,1030,8.25,30,Gittleman,
+carnivora,Mustela nigripes,580,8.5,30,Gittleman,
+carnivora,Vormela peregusna,590,4.76,41,Gittleman,
+carnivora,Martes foina,1800,20.91,36,Gittleman,
+carnivora,Martes americana,860,15.8,30,Gittleman,
+carnivora,Martes pennanti,3460,31.82,28,Gittleman,
+carnivora,Martes zibellina,1170,18.54,22,Gittleman,
+carnivora,Martes flavigula,2510,34.12,32,Gittleman,
+carnivora,Gulo gulo,11130,78.26,31,Gittleman,
+carnivora,Tayra barbara,4390,35.87,32,Gittleman,
+carnivora,Galictis vittata,2440,24.29,32,Gittleman,
+carnivora,Galictis cuja,1000,15.03,33,Gittleman,
+carnivora,Ictonyx striatus,750,9.78,41,Gittleman,
+carnivora,Poecilogale albinucha,290,4.76,32,Gittleman,
+carnivora,Mellivora capensis,8080,72.97,31,Gittleman,
+carnivora,Meles meles,12940,50.4,31,Gittleman,
+carnivora,Arctonyx collaris,10490,49.4,31,Gittleman,
+carnivora,Mydaus javanensis,2510,19.49,32,Gittleman,
+carnivora,Taxidea taxus,4060,48.91,30,Gittleman,
+carnivora,Melogale personata,4060,48.91,40,Gittleman,
+carnivora,Mephitis mephitis,2360,10.28,42,Gittleman,
+carnivora,Spilogale putorius,540,5,35,Gittleman,
+carnivora,Conepatus leuconotus,3390,14.44,33,Gittleman,
+carnivora,Lutra lutra,8670,42.1,32,Gittleman,
+carnivora,Lutra felina,4100,38.86,26,Gittleman,
+carnivora,Lutra maculicollis,4010,40.04,33,Gittleman,
+carnivora,Lutrogale perspicillata,8670,64.72,32,Gittleman,
+carnivora,Aonyx cinerea,4060,38.09,31,Gittleman,
+carnivora,Aonyx capensis,19110,94.63,36,Gittleman,
+carnivora,Pteronera brasiliensis,27390,85.63,33,Gittleman,
+carnivora,Enhydra lutris,27940,125.21,27,Gittleman,
+carnivora,Viverra zibetha,9030,36.97,32,Gittleman,
+carnivora,Viverra megaspila,8500,36.6,32,Gittleman,
+carnivora,Viverra tangalunga,4710,24.05,32,Gittleman,
+carnivora,Civettictis civetta,12060,36.97,36,Gittleman,
+carnivora,Viverricula indica,2660,16.78,31,Gittleman,
+carnivora,Genetta genetta,1900,14.01,40,Gittleman,
+carnivora,Genetta tigrina,2050,15.18,27,Gittleman,
+carnivora,Genetta servalina,1250,15.03,32,Gittleman,
+carnivora,Genetta angolensis,2100,15.49,31,Gittleman,
+carnivora,Prionodon linsang,670,8.5,32,Gittleman,
+carnivora,Prionodon pardicolor,450,9.03,34,Gittleman,
+carnivora,Nandinia binotata,3190,17.29,32,Gittleman,
+carnivora,Arctogalidia trivirgata,2460,21.98,32,Gittleman,
+carnivora,Paradoxurus zeylonensis,2720,17.81,32,Gittleman,
+carnivora,Paguma larvata,4310,30.88,32,Gittleman,
+carnivora,Arctictis binturong,11470,40.85,32,Gittleman,
+carnivora,Hemigalus derbyanus,830,18.92,32,Gittleman,
+carnivora,Cynogale bennettii,4010,29.96,32,Gittleman,
+carnivora,Eupleres goudotii,2100,16.95,30,Gittleman,
+carnivora,Galidia elegans,810,10.7,30,Gittleman,
+carnivora,Salanoia unicolor,780,11.02,29,Gittleman,
+carnivora,Herpestes ichneumon,3030,23.34,33,Gittleman,
+carnivora,Herpestes naso,3000,25.53,31,Gittleman,
+carnivora,Herpestes pulverulentus,840,11.02,28,Gittleman,
+carnivora,Herpestes sanguineus,490,8.76,37,Gittleman,
+carnivora,Herpestes edwardsii,1260,10.49,40,Gittleman,
+carnivora,Herpestes smithii,1750,13.74,39,Gittleman,
+carnivora,Herpestes fuscus,1120,12.55,33,Gittleman,
+carnivora,Herpestes vitticollis,2290,25.79,33,Gittleman,
+carnivora,Herpestes urva,2360,20.91,36,Gittleman,
+carnivora,Mungos mungo,1260,10.49,40,Gittleman,
+carnivora,Crossarchus obscurus,1310,9.78,37,Gittleman,
+carnivora,Helogale parvula,270,4.76,38,Gittleman,
+carnivora,Bdeogale crassicauda,1250,16.95,35,Gittleman,
+carnivora,Rhynchogale melleri,2720,16.95,35,Gittleman,
+carnivora,Ichneumia albicauda,3860,24.29,40,Gittleman,
+carnivora,Atilax paludinosus,3670,28.5,35,Gittleman,
+carnivora,Cynictis penicillata,590,10.49,35,Gittleman,
+carnivora,Paracynictus selousi,1700,15.8,31,Gittleman,
+carnivora,Suricata suricatta,730,10.28,31,Gittleman,
+carnivora,Cryptoprocta ferox,9490,32.14,31,Gittleman,
+carnivora,Hyaena hyaena,26840,97.51,32,Gittleman,
+carnivora,Hyaena brunnea,43380,106.7,27,Gittleman,
+carnivora,Crocuta crocuta,66020,144.03,35,Gittleman,
+carnivora,Proteles cristatus,8330,35.16,38,Gittleman,
+carnivora,Felis silvestris,4660,37.34,35,Gittleman,
+carnivora,Felis chaus,7030,39.25,33,Gittleman,
+carnivora,Felis nigripes,2200,20.09,35,Gittleman,
+carnivora,Leptailurus serval,10800,5.26,,Gittleman,
+carnivora,Prionailurus bengalensis,5470,29.37,32,Gittleman,
+carnivora,Prionailurus rubiginosus,1420,18.92,38,Gittleman,
+carnivora,Prionailurus viverrinus,8410,46.53,36,Gittleman,
+carnivora,Otocolobus manul,3000,34.47,38,Gittleman,
+carnivora,Caracal aurata,11940,57.97,34,Gittleman,
+carnivora,Caracal caracal,11470,55.15,40,Gittleman,
+carnivora,Puma concolor,50400,125.21,41,Gittleman,
+carnivora,Leopardus pardalis,13460,63.43,33,Gittleman,
+carnivora,Herpailurus yagouaroundi ,7460,40.04,33,Gittleman,
+carnivora,Lynx lynx,11030,70.11,20,Gittleman,
+carnivora,Lynx rufus,6110,57.97,41,Gittleman,
+carnivora,Panthera leo,154470,223.63,40,Gittleman,
+carnivora,Panthera tigris,159170,278.66,32,Gittleman,
+carnivora,Panthera pardus,50910,125.21,42,Gittleman,
+carnivora,Panthera onca,85630,151.41,41,Gittleman,
+carnivora,Panthera uncia,32460,101.49,20,Gittleman,
+carnivora,Neofelis nebulosa,19490,68.71,31,Gittleman,
+carnivora,Acinonyx jubatus,58560,111.05,42,Gittleman,
+rodentia,Agouti paca,5635,35.8,34,McNab&CRC,Agouti (Cuniculus) paca
+rodentia,Ammospermophilus leucurus,106,2.92,32,McNab&CRC,Ammospermophilus leucurus
+rodentia,Aplodontia rufa,789,7.9,26,McNab&CRC,Aplodontia rufa
+rodentia,Arvicola terrestris,120,1.5,30,McNab&CRC,Arvicola terrestris (amphibius)
+rodentia,Chinchilla lanigera,432,5.3,21,McNab&CRC,Chinchilla lanigera
+rodentia,Clethrionomys gapperi,17,1.15,30,McNab&CRC,Clethrionomys gapperi
+rodentia,Clethrionomys glareolus,18,1.11,28,McNab&CRC,Clethrionomys glareolus
+rodentia,Clethrionomys rutilus,18,1.15,25,McNab&CRC,Clethrionomys rutilus
+rodentia,Cricetus cricetus,366,2.5,26,McNab&CRC,Cricetus cricetus
+rodentia,Cryptomys hottentotus,98,1.76,32,McNab&CRC,Cryptomys hottentotus
+rodentia,Cynomys ludovicianus,794,6.6,32,McNab&CRC,Cynomys ludovicianus
+rodentia,Dasyprocta leporina,2800,20.3,33,McNab&CRC,Dasyprocta leporina
+rodentia,Dipodomys agilis,61,1.93,28,McNab&CRC,Dipodomys agilis
+rodentia,Dipodomys deserti,130,2.33,40,McNab&CRC,Dipodomys deserti
+rodentia,Dipodomys merriami,38,1.64,40,McNab&CRC,Dipodomys merriami
+rodentia,Dipodomys microps,60,1.8,31,McNab&CRC,Dipodomys microps
+rodentia,Funisciurus pyrropus,200,4.97,33,McNab&CRC,Funisciurus pyrrhopus
+rodentia,Geomys bursarius,202,2.63,36,McNab&CRC,Geomys bursarius
+rodentia,Glaucomys volans,52,1.89,31,McNab&CRC,Glaucomys volans
+rodentia,Heliophobius argenteocinereus,160,2.02,32,McNab&CRC,Heliophobius argenteocinereus
+rodentia,Heliosciurus rufobrachium,327,6.34,31,McNab&CRC,Heliosciurus rufobrachium
+rodentia,Heterocephalus glaber,61,1.11,35,McNab&CRC,Heterocephalus glaber
+rodentia,Hydrochaeris hydrochaeris,29500,76,32,McNab&CRC,Hydrochaeris hydrochaeris
+rodentia,Jaculus jaculus,55,1.8,42,McNab&CRC,Jaculus jaculus
+rodentia,Jaculus orientalis,140,2.64,32,McNab&CRC,Jaculus orientalis
+rodentia,Lagostomus maximus,2460,15.1,35,McNab&CRC,Lagostomus maximus
+rodentia,Lemmus sibiricus,70,1.49,20,McNab&CRC,Lemmus sibiricus
+rodentia,Liomys salvini,45,1.36,35,McNab&CRC,Liomys salvini
+rodentia,Marmota monax,4199,11.24,32,McNab&CRC,Marmota monax
+rodentia,Meriones hurrianae,71,1.56,40,McNab&CRC,Meriones hurrianae
+rodentia,Meriones unguiculatus,57,1.72,24,McNab&CRC,Meriones unguiculatus
+rodentia,Mesocricetus auratus,125,1.12,37,McNab&CRC,Mesocricetus auratus
+rodentia,Microtus californicus,43,1.37,42,McNab&CRC,Microtus californicus
+rodentia,Microtus longicaudus,47,1.29,32,McNab&CRC,Microtus longicaudus
+rodentia,Microtus montanus,40,1.28,31,McNab&CRC,Microtus montanus
+rodentia,Microtus ochrogaster,44,1.3,33,McNab&CRC,Microtus ochrogaster
+rodentia,Microtus pennsylvanicus,37,1.36,34,McNab&CRC,Microtus pennsylvanicus
+rodentia,Napaeozapus insignis,23,1.07,30,McNab&CRC,Napaeozapus insignis
+rodentia,Neotoma albigula,223,2.76,37,McNab&CRC,Neotoma albigula
+rodentia,Neotoma cinerea,331,3.24,33,McNab&CRC,Neotoma cinerea
+rodentia,Neotoma fuscipes,193,3.25,33,McNab&CRC,Neotoma fuscipes
+rodentia,Notomys alexis,37,1.55,38,McNab&CRC,Notomys alexis
+rodentia,Ochrotomys nuttalli,22,1.28,32,McNab&CRC,Ochrotomys nuttalli
+rodentia,Ondatra zibethicus,1100,6.2,42,McNab&CRC,Ondatra zibethicus
+rodentia,Perognathus longimembris,8,0.93,38,McNab&CRC,Perognathus longimembris
+rodentia,Peromyscus californicus,34,1.54,31,McNab&CRC,Peromyscus californicus
+rodentia,Peromyscus crinitus,14,0.53,42,McNab&CRC,Peromyscus crinitus
+rodentia,Peromyscus eremicus,20,0.54,31,McNab&CRC,Peromyscus eremicus
+rodentia,Peromyscus maniculatus,22,0.57,30,McNab&CRC,Peromyscus maniculatus
+rodentia,Peromyscus megalops,71,1.8,33,McNab&CRC,Peromyscus megalops
+rodentia,Peromyscus truei,30,1.36,40,McNab&CRC,Peromyscus truei
+rodentia,Proechimys semispinosus,450,3.59,32,McNab&CRC,Proechimys semispinosus
+rodentia,Rattus fuscipes,136,2.22,30,McNab&CRC,Rattus fuscipes
+rodentia,Rattus lutreolus,93,2.23,30,McNab&CRC,Rattus lutreolus
+rodentia,Rattus rattus,150,1.92,32,McNab&CRC,Rattus rattus
+rodentia,Sigmodon hispidus,148,1.18,35,McNab&CRC,Sigmodon hispidus
+rodentia,Spalacopus cyanus,93,2.17,23,McNab&CRC,Spalacopus cyanus
+rodentia,Spermophilus beecheyi,587,5.71,35,McNab&CRC,Spermophilus beecheyi
+rodentia,Spermophilus beldingi,263,3.87,37,McNab&CRC,Spermophilus beldingi
+rodentia,Spermophilus lateralis,166,3.6,31,McNab&CRC,Spermophilus lateralis
+rodentia,Spermophilus richardsonii,316,3.76,30,McNab&CRC,Spermophilus richardsonii
+rodentia,Spermophilus tereticaudus,157,2.41,36,McNab&CRC,Spermophilus tereticaudus
+rodentia,Spermophilus tridecemlineatus,175,3.02,34,McNab&CRC,Spermophilus tridecemlineatus
+rodentia,Tachyoryctes splendens,218,2.24,30,McNab&CRC,Tachyoryctes splendens
+rodentia,Tamias amoenus,51,1.98,37,McNab&CRC,Tamias amoenus
+rodentia,Tamias minimus,45,2.19,35,McNab&CRC,Tamias minimus
+rodentia,Tamias striatus,93,2.7,33,McNab&CRC,Tamias striatus
+rodentia,Tamiasciurus hudsonicus,189,4.42,32,McNab&CRC,Tamiasciurus hudsonicus
+rodentia,Tatera indica,140,2.43,34,McNab&CRC,Tatera indica
+rodentia,Thomomys talpoides,121,1.98,28,McNab&CRC,Thomomys talpoides
+rodentia,Zapus hudsonius,18,1.02,30,McNab&CRC,Zapus hudsonius
+chiroptera,Hipposideros galeritus,6,0.24,32,McNab&CRC,
+chiroptera,Noctilio albiventris,29.2,0.55,33,McNab&CRC,
+chiroptera,Anoura caudifera,10,0.43,32,McNab&CRC,
+chiroptera,Artibeus jamaicensis,47.1,0.93,31,McNab&CRC,
+chiroptera,Artibeus lituratus,69.4,1.05,33,McNab&CRC,
+chiroptera,Carollia perspicillata,21.2,0.47,34,McNab&CRC,
+chiroptera,Chrotopterus auritus,85,1.74,30,McNab&CRC,
+chiroptera,Desmodus rotundus,32.8,0.86,32,McNab&CRC,
+chiroptera,Diaemus youngi,40,0.97,33,McNab&CRC,
+chiroptera,Glossophaga soricina,11,0.39,36,McNab&CRC,
+chiroptera,Macrotus californicus,11.1,0.39,41,McNab&CRC,
+chiroptera,Phyllostomus discolor,42.2,0.89,35,McNab&CRC,
+chiroptera,Phyllostomus hastatus,114,1.4,35,McNab&CRC,
+chiroptera,Rhinophylla pumilio,9.4,0.35,32,McNab&CRC,
+chiroptera,Sturnira lilium,15,0.52,35,McNab&CRC,
+chiroptera,Tonatia bidens,26.6,0.71,34,McNab&CRC,
+chiroptera,Uroderma bilobatum,16.6,0.53,33,McNab&CRC,
+chiroptera,Cynopterus brachyotis,28.4,0.88,31,McNab&CRC,
+chiroptera,Eonycteris spelaea,66.6,1.18,31,McNab&CRC,
+chiroptera,Megaloglossus woermanni,12.4,0.59,34,McNab&CRC,
+chiroptera,Rousettus aegyptiacus,138,2.6,40,McNab&CRC,
+primate,Callithrix jacchus,354,7.6,35,Stephen&CRC,
+primate,Cebuella pygmaea,118,4.5,32,Stephen&CRC,
+primate,Saguinus oedipus,800,10,35,Stephen&CRC,
+primate,Aotus trivirgatus,800,17.1,33,Stephen&CRC,
+primate,Ateles geoffroyi,5570,108,33,Stephen&CRC,
+primate,Callicebus moloch,950,19,33,Stephen&CRC,
+primate,Lagothrix lagotricha,9030,101,32,Stephen&CRC,
+primate,Saimiri sciureus,700,24,32,Stephen&CRC,
+primate,Cercocebus albigena / Lophocebus aterrimus,4730,104,32,Stephen&CRC,
+primate,Cercopithecus ascanius,3450,67,34,Stephen&CRC,
+primate,Cercopithecus mitis,4750,75,31,Stephen&CRC,
+primate,Colobus badius,8000,78,33,Stephen&CRC,
+primate,Erythrocebus patas,5000,93,33,Stephen&CRC,
+primate,Macaca mulatta,7900,201,37,Stephen&CRC,
+primate,Nasalis larvatus,450,6.8,31,Stephen&CRC,
+primate,Papio anubis,185,3.14,32,Stephen&CRC,
+primate,Cheirogaleus major,60,1.78,31,Stephen&CRC,
+primate,Cheirogaleus medius,2800,45.15,31,Stephen&CRC,
+primate,Microcebus murinus,4000,102,32,Stephen&CRC,
+primate,Daubentonia madagascariensis,1270,10.49,30,Stephen&CRC,
+primate,Hylobates lar,6250,38.3,31,Stephen&CRC,
+primate,Avahi laniger,3480,26.7,30,Stephen&CRC,
+primate,Indri indri,147,4.8,29,Stephen&CRC,
+primate,Propithecus verreauxi,60,3.38,32,Stephen&CRC,
+primate,Galago senegalensis,322,6.6,40,Stephen&CRC,
+primate,Galagoides demidoff,480,12.5,32,Stephen&CRC,
+primate,Loris tardigradus,1100,14,33,Stephen&CRC,
+primate,Nycticebus coucang,88100,500,33,Stephen&CRC,
+primate,Perodicticus potto,40000,405,35,Stephen&CRC,
+primate,Gorilla gorilla,131550,498,32,Jerison,
+primate,Pan troglodytes,50350,382.5,32,Jerison,
+primate,Homo sapiens,53500,1294.5,38,Jerison,
+insectivora,Erinaceus europaeus,623,2.25,28,Stephen&CRC,
+insectivora,Hemiechinus auritus,296,1.9,36,Stephen&CRC,
+insectivora,Solenodon paradoxus,900,4.67,32,Stephen&CRC,
+insectivora,Crocidura occidentalis,55.2,0.44,24,Stephen&CRC,
+insectivora,Crocidura russula,6.4,0.19,22,Stephen&CRC,
+insectivora,Neomys fodiens,13,0.32,25,Stephen&CRC,
+insectivora,Sorex araneus,7,0.2,31,Stephen&CRC,
+insectivora,Sorex minutus,3,0.11,37,Stephen&CRC,
+insectivora,Suncus murinus,41.8,0.38,28,Stephen&CRC,
+insectivora,Desmana moschata,440,4,25,Stephen&CRC,
+insectivora,Galemys pyrenaicus,57.5,1.33,28,Stephen&CRC,
+insectivora,Talpa europaea,76,1.02,32,Stephen&CRC,
+insectivora,Echinops telfairi,87.5,0.62,31,Stephen&CRC,
+insectivora,Hemicentetes semispinosus,110,0.83,26,Stephen&CRC,
+insectivora,Limnogale mergulus,75.8,1.15,31,Stephen&CRC,
+insectivora,Potamogale velox,660,4.16,31,Stephen&CRC,
+insectivora,Setifer setosus,248,1.51,31,Stephen&CRC,
+insectivora,Tenrec ecaudatus,832,2.57,31,Stephen&CRC,
